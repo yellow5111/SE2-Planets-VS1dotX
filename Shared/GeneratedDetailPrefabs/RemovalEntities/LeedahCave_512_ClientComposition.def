@@ -1,0 +1,28 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "b68cfc0a-498c-4565-9924-2c78b51f34c7",
+    "Components": {
+      "$DeltaEncoded": true,
+      "Keys": [
+        "eb2a8e79-b052-4732-9229-f4d7d0fcd162",
+        "366401d5-96b3-46c2-bfb1-78f0811eaada",
+        "d8abc9f5-a11c-47c6-8960-428ecd92d1a7"
+      ],
+      "Changed": [
+        {
+          "Kind": "Update",
+          "Index": 0,
+          "Value": {
+            "Definition": "6945ead1-66f9-496c-a4d8-ae7f54fb3621"
+          }
+        }
+      ],
+      "Removed": []
+    }
+  }
+}

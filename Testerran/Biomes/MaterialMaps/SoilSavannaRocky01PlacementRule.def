@@ -1,0 +1,23 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetMaterialDefinition+PlanetMaterialPlacementRuleDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "7a3e66ad-5839-4348-8afb-c445323e9e15",
+    "Layers": [
+      {
+        "Key": "6e7971a8-9598-4f63-a7f0-28dae7c8a755",
+        "Value": {
+          "Material": "b283228f-1119-4658-831f-bde4acd50e54",
+          "Depth": 0
+        }
+      }
+    ],
+    "Slope": {
+      "Min": 0,
+      "Max": 90
+    }
+  }
+}

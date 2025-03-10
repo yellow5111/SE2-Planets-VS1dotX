@@ -1,0 +1,18 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Components.CompositePlanetShapeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "ed1abc1e-87f0-47dd-ab52-3290d0691855",
+    "VoxelStorageHandle": "{G}807381a6-a3f0-4758-bb8f-dc8bb628b49b",
+    "UsageType": "Subtractive",
+    "ShapeCenter": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "OverrideMaterial": null
+  }
+}

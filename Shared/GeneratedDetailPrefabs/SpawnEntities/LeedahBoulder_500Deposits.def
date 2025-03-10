@@ -1,0 +1,33 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Definitions.ProceduralOresSpawnDataDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "e673e1e4-333d-4448-8bca-bab52f05dc68",
+    "OreRules": [
+      {
+        "Probability": 0.7,
+        "Ore": {
+          "Material": "30ca48a2-d182-4892-8629-60433c18883f",
+          "MinSize": 8,
+          "MaxSize": 32,
+          "MinBiomeDepth": 0,
+          "MaxBiomeDepth": 1
+        }
+      },
+      {
+        "Probability": 0.3,
+        "Ore": {
+          "Material": "99252318-6504-471b-a0ed-1dbc3ed4cf74",
+          "MinSize": 8,
+          "MaxSize": 32,
+          "MinBiomeDepth": 0,
+          "MaxBiomeDepth": 1
+        }
+      }
+    ],
+    "MaxDeposits": 32
+  }
+}

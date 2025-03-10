@@ -1,0 +1,28 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.Surface.TerrainDetailCubemapDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "22ae874a-f601-4990-af20-987f57cf92a4",
+    "Patterns": {
+      "43": "7d1d5dd3-f497-4da2-a51b-66caccf135a3",
+      "33": "358fb457-39b3-4cc7-a5e3-93a3d40da5a0",
+      "76": "61b78e11-728a-4d0f-92b8-b0e7e6861080",
+      "0": "61b78e11-728a-4d0f-92b8-b0e7e6861080"
+    },
+    "LookupCubemap": {
+      "Right": "{G}d7b1d2c6-8d32-485b-9bf2-2e41385f6076",
+      "Left": "{G}a35b7b68-dc44-4250-8b43-97c9d2d25db6",
+      "Up": "{G}c7ad3ed1-e05e-4b6c-9a08-5cac5e44ed33",
+      "Down": "{G}5ca78b07-8185-4cd0-b0a0-fd88629c243f",
+      "Backward": "{G}fc08b6de-0900-4918-98e9-70b662d51692",
+      "Forward": "{G}4dd42eb4-66e1-4d00-90d8-3b90a6e6a121"
+    },
+    "TargetPlanetRadius": 60000,
+    "DecayFactor": 0,
+    "MaterialBlendingThreshold": 0,
+    "BlendingCoverageMap": null
+  }
+}

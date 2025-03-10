@@ -1,0 +1,13 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Client.Definitions.PlanetOverlayDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "81cfa4fa-b284-4cbe-8ff6-6e2695febffb",
+    "OverlayColorMetal": "{G}4b401626-67ab-4eb0-88fa-f33c53020cf1",
+    "OverlayNormalRoughness": "{G}25e8bf7a-da71-4457-adaa-1e0cde921002",
+    "OverlayExtension": "{G}252d9bdf-5d9b-4e12-a524-b390f144d34c"
+  }
+}

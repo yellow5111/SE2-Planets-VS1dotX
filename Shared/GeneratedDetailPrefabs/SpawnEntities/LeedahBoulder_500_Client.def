@@ -1,0 +1,34 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Core.Game.Definitions.PrefabDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "108d486c-d7c6-46cf-b7e5-0f6d12e429b0",
+    "_entity": {
+      "Definition": "329a1e64-1669-41fb-b024-e6918ebbf23e",
+      "ObjectBuilders": {
+        "$DeltaEncoded": true,
+        "Keys": [
+          "d2de3404-8125-4f2e-97ad-ef01229b6ec6",
+          "61a3dec4-d26f-484c-b223-ede0aa0a0912",
+          "90a0f460-6cac-494f-9a4e-2716710e0b78",
+          "420de6f0-86cd-43f5-9dbf-2bc0999a53f4",
+          "7605ed3e-5b28-4f54-a81b-faaf116c60da",
+          "0c5da49e-0d7a-4292-9d9d-670ea9ef0cc7",
+          "344b88d7-6dab-43f6-97d7-02856202f1b3",
+          "90f59b9e-751b-455b-b090-7a2b5b852c78"
+        ],
+        "Changed": [
+          {
+            "Kind": "Insert",
+            "Index": 7,
+            "Value": null
+          }
+        ],
+        "Removed": []
+      }
+    }
+  }
+}

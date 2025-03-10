@@ -1,0 +1,10 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetEnvironmentDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "bdbe4bfa-6e72-44ee-bde0-b0ebf9382e47"
+  }
+}

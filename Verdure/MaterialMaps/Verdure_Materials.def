@@ -1,0 +1,184 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.MaterialMapDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "8e194dcf-a6ea-4204-8375-25288c7291d5",
+    "Cubemap": {
+      "Right": "{G}fef8777a-aa63-44d3-97c5-891d7db17d8d",
+      "Left": "{G}7063e9e3-fae5-4c39-ad1f-415b21c047e9",
+      "Up": "{G}0961969b-ed75-42be-9a22-c77071d47c53",
+      "Down": "{G}ee82ba06-c240-4e79-a804-1657e51c17ee",
+      "Backward": "{G}cc23efc5-f310-4a56-9fa2-c067e156dd9d",
+      "Forward": "{G}6384222b-498d-4be5-97a3-e4bb3b239045"
+    },
+    "MaterialBlending": {
+      "Texture": "{G}ba51ef4c-313d-485c-aa0e-3a3d2da18406",
+      "CellSize": 64
+    },
+    "MaterialMappings": [
+      {
+        "Key": "d775449c-7bcf-463a-919c-92b9257e7285",
+        "Value": "e12ce816-76ca-49a5-861c-92d061b4318b"
+      },
+      {
+        "Key": "2b79e26c-e63e-4aa9-ac88-9f53ebda1047",
+        "Value": "093bce2c-40a8-4dfc-9a42-4fa5fdbe0aa6"
+      },
+      {
+        "Key": "78e38b02-893e-4fcf-9cfc-47898b3bc0df",
+        "Value": "d3a74945-af42-45fa-b18c-c759d77408ca"
+      },
+      {
+        "Key": "094991e0-f62d-4bfa-b7cf-8b66adf88d0d",
+        "Value": "980ab5fb-8025-4c8d-b496-0fd9357fdd1b"
+      },
+      {
+        "Key": "3c19ae1c-b851-4b3c-9819-1059ff42c7d4",
+        "Value": "b26db412-917f-4c3f-9382-032d3a5bd4ce"
+      },
+      {
+        "Key": "0d654d7d-a775-4bfe-961e-15afe66b831f",
+        "Value": "b3c79a83-06e8-499a-be80-d7bee853fbe8"
+      },
+      {
+        "Key": "62dcbe6e-38e8-48e2-8d17-1ea4310781eb",
+        "Value": "d6a30b51-af95-4a29-bf11-cf6c287f76e6"
+      },
+      {
+        "Key": "9109d9ba-f8ed-4d95-9db2-e1496974dda2",
+        "Value": "82a8e502-93f0-434e-91d5-ea177903d07b"
+      },
+      {
+        "Key": "10e09a4a-aa5a-407b-b598-fc2f56616246",
+        "Value": "27b39ceb-e42c-4b2e-81eb-b74cae37ac13"
+      },
+      {
+        "Key": "65083f14-951b-405f-a961-6f208fd26927",
+        "Value": "fb643b6f-2af6-4726-a2e1-7a873f611018"
+      },
+      {
+        "Key": "63424f96-b03d-4774-9d1e-f4f0b5312e53",
+        "Value": "f10a3327-b98e-42da-89b0-3e43e8666b21"
+      },
+      {
+        "Key": "6e2402fb-43d1-40bd-8d4b-cce90eb290e0",
+        "Value": "bdd1d6af-2ac4-40cd-91a7-97db5e4bf2be"
+      },
+      {
+        "Key": "72335e25-ec9c-4d73-88f2-85f0ad616ea1",
+        "Value": "3f7f8f70-8cb2-49f2-a8bd-f46ec0db96ec"
+      },
+      {
+        "Key": "464f9533-4d47-4531-aa7b-c6d42f2f3133",
+        "Value": "ad5cd1c8-6bd0-45f4-af30-dc6e2ee0a11f"
+      },
+      {
+        "Key": "ad75750f-63f0-4397-b56f-b3e8139188ba",
+        "Value": "1a3d4f37-2c91-4b08-909d-b959e25fa3ee"
+      },
+      {
+        "Key": "34b1ece9-4c21-4ddd-946a-c4d5615da354",
+        "Value": "3ce5852b-40ff-4cdd-aff1-159df5439dd2"
+      },
+      {
+        "Key": "216a94d5-091a-4356-a719-941e37a063d5",
+        "Value": "63386489-5300-4687-a3db-5092fa8521a2"
+      },
+      {
+        "Key": "2d8a79d2-8ce2-4e7b-bb4c-1b27e561a455",
+        "Value": "a8749c87-aee0-4d59-8d2b-b988fffc6a07"
+      },
+      {
+        "Key": "c1cd94b5-293f-4402-8ca2-fb3e64eb1fd0",
+        "Value": "0ae24d29-984f-4609-8159-e0496f756876"
+      },
+      {
+        "Key": "becdab55-40c3-4280-97c5-df49f6d51555",
+        "Value": "5ac5ecb2-f409-456f-ac6b-85991bdd0810"
+      },
+      {
+        "Key": "63ea7b22-4f16-49c0-a2a8-1876d3603e53",
+        "Value": "e927ca2f-a665-4e55-82b2-b216df24e406"
+      },
+      {
+        "Key": "844c0103-e4e0-4e9e-9724-b73417fbbcfa",
+        "Value": "8d0abbfc-65cf-4979-8ada-a319d09178c2"
+      },
+      {
+        "Key": "6d7e839c-c77c-4d8f-803f-49b306e85e15",
+        "Value": "f92365c4-1b76-432c-a880-eb1906bdec5c"
+      },
+      {
+        "Key": "ac9f5dfa-8660-4c7b-bb14-5e7fe385e14f",
+        "Value": "8bf8ef88-265a-49d6-9067-6ea2180891f0"
+      },
+      {
+        "Key": "1f86db08-889d-4825-a615-c0d678eaae92",
+        "Value": "6f68c324-d68e-4513-9cf9-0681f7723fdd"
+      },
+      {
+        "Key": "6643791f-7d59-498a-b4e3-c7b3eb9ca139",
+        "Value": "46b8f291-d1b9-4663-be46-563c22b8e1de"
+      },
+      {
+        "Key": "9b157133-f0af-437c-be97-a0e6eece4059",
+        "Value": "f2a38f95-4499-4524-88c7-783600591240"
+      },
+      {
+        "Key": "cade98dd-863c-4e6b-9645-d50bfcac0915",
+        "Value": "d9a335f0-b49d-4acb-81e0-81e9c7a278d5"
+      },
+      {
+        "Key": "6c8676cc-1ed0-4679-908f-64f948463fde",
+        "Value": "04538499-3392-486a-aeb0-9cb189ba585d"
+      },
+      {
+        "Key": "e68836bb-664c-43fc-8b73-3a728ba7524c",
+        "Value": "ec699767-f719-4ad9-bf2a-94a9493e518e"
+      },
+      {
+        "Key": "de759fe8-aed0-4387-bafd-fad1673ccb54",
+        "Value": "cac71b2a-2bb8-4054-9569-0e396c7597e0"
+      },
+      {
+        "Key": "08d8b46b-8cfd-4732-b1f9-12b1f24ff01b",
+        "Value": "6915d57e-ea1f-4eb2-98ca-6d2e8dc04912"
+      },
+      {
+        "Key": "23fb123d-b120-47ec-bd4c-bd48e13e0888",
+        "Value": "4b5846d5-0b25-4e4b-8036-cb6f99925718"
+      },
+      {
+        "Key": "f574f8bb-7c40-4717-8df8-b9b2e305e8df",
+        "Value": "40501b48-b6ec-4ae5-a62f-19b8715d3bed"
+      },
+      {
+        "Key": "f9eb456d-75cc-4cb4-8ae0-0c9757b478da",
+        "Value": "a2ac65bc-f0c5-4b29-a062-8308d6071f1e"
+      },
+      {
+        "Key": "292ec08e-81db-4f6d-ab49-3215a5909ab7",
+        "Value": "ea6a2d40-ec96-4b83-b1e6-4216f550ae35"
+      },
+      {
+        "Key": "d6f45df7-57c7-4dec-986a-3eb1c26a8277",
+        "Value": "4d25f705-cf5d-4c50-a663-226ac59879fd"
+      },
+      {
+        "Key": "ba33a05b-2d30-48f2-aab6-d6e212889a57",
+        "Value": "8257706a-e2d4-4df6-9bf7-dbe9bd704365"
+      },
+      {
+        "Key": "2bb04528-0fe8-4a02-943e-2e046190401e",
+        "Value": "ab274d00-95c0-4b24-86c9-84bf030553a7"
+      },
+      {
+        "Key": "658bb605-6707-4668-ac71-89c6a9810feb",
+        "Value": "487b828d-d5f1-4062-b56c-ab2899a33ab2"
+      }
+    ]
+  }
+}

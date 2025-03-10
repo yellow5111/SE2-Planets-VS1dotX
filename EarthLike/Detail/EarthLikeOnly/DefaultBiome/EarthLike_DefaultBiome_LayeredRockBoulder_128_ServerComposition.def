@@ -1,0 +1,43 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "01d8c505-3fd2-4023-8197-857e7dd34a78",
+    "TagSlots": {
+      "$DeltaEncoded": true,
+      "RemovedKeys": [],
+      "ModifiedKeys": [
+        {
+          "$Key": "ProceduralOreComponent",
+          "$Value": "3b93ef76-fcfa-443e-b04e-c19b100001be"
+        }
+      ]
+    },
+    "Components": {
+      "$DeltaEncoded": true,
+      "Keys": [
+        "d2de3404-8125-4f2e-97ad-ef01229b6ec6",
+        "7605ed3e-5b28-4f54-a81b-faaf116c60da",
+        "0c5da49e-0d7a-4292-9d9d-670ea9ef0cc7",
+        "344b88d7-6dab-43f6-97d7-02856202f1b3",
+        "012d6b8b-8de5-44d2-aae8-6b7f71a0e4ef",
+        "58ce39f8-1580-4541-a3fc-a2551127cc77",
+        "3b93ef76-fcfa-443e-b04e-c19b100001be"
+      ],
+      "Changed": [
+        {
+          "Kind": "Insert",
+          "Index": 6,
+          "Value": {
+            "Definition": "3bc2b1f9-83bc-49fc-b14a-9e418b75c335",
+            "Type": "VRage:Keen.VRage.Voxels.Components.ProceduralOreComponent"
+          }
+        }
+      ],
+      "Removed": []
+    }
+  }
+}

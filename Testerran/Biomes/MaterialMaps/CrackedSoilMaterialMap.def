@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetMaterialMapDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "b26db412-917f-4c3f-9382-032d3a5bd4ce",
+    "ColorKey": 60,
+    "MaterialRules": [
+      {
+        "Key": "3f6b99ce-8636-4aff-ad6d-ac87232c606a",
+        "Value": "55ae40b4-c942-4142-b1b1-550fc268b140"
+      }
+    ]
+  }
+}

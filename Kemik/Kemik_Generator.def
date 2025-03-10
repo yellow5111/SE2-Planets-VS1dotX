@@ -1,0 +1,22 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetGeneratorDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "1b6a5561-6814-48a2-9567-49e8a8a73596",
+    "Name": "Kemik",
+    "UpMap": "{G}20cbe9b2-91c3-4629-9a1f-881c5eec6b4a",
+    "DownMap": "{G}d676a2a5-2ae7-4a48-b7cd-ebce04e486ee",
+    "LeftMap": "{G}53fba4fc-d952-4205-9859-89afd5105b21",
+    "RightMap": "{G}6e5363c6-57e3-444b-a9fc-053c155d0fcc",
+    "FrontMap": "{G}0261fad9-aa71-4cb2-b191-a6e59704b965",
+    "BackMap": "{G}35b2c28c-1304-4259-9a72-898b0ae01869",
+    "HillParams": {
+      "Max": 0.05
+    },
+    "DefaultMaterial": "ce2aef3a-ebdf-4682-86ee-d61e6c62fcc3",
+    "DetailCubemap": "127a1856-aa54-45c1-ac1d-69e4482d4a6f"
+  }
+}

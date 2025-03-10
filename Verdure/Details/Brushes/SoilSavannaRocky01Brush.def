@@ -1,0 +1,36 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.Surface.TerrainPatternBrushDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "1ebac2a8-90bb-4119-9382-48c29ba6b41e",
+    "HorizontalScale": 82,
+    "HeightScale": 4.8,
+    "MidLevel": 0.3,
+    "TextureVariations": [
+      {
+        "Key": "5a72a71d-7e03-4a24-897e-80f8c1cb9459",
+        "Value": {
+          "Texture": "c5a0a899-6c48-48ba-92a7-de73ce585bc2",
+          "Ratio": 1
+        }
+      },
+      {
+        "Key": "9dde51b6-aedd-4ef2-a7d5-10465917dbc8",
+        "Value": {
+          "Texture": "1bdbaa4f-17c3-4396-9af2-8c7256ddab80",
+          "Ratio": 2
+        }
+      },
+      {
+        "Key": "25c5af3a-1c01-482f-be06-580c3d0e9852",
+        "Value": {
+          "Texture": "e78807ab-b379-4cf2-aaaa-e089413fee9c",
+          "Ratio": 3
+        }
+      }
+    ]
+  }
+}

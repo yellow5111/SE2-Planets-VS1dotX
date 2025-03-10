@@ -1,0 +1,12 @@
+{
+  "$Bundles": {
+    "Game2": "0.12.0.111",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "Game2:Keen.Game2.Client.WorldObjects.PlanetAtmosphereRenderDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "d2a95f6d-b87a-4fad-ba89-8c10d8088b72",
+    "AtmosphereDefinition": "3d250b1f-3ed0-4c50-87c0-10d06f951332"
+  }
+}

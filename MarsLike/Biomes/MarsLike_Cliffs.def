@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetBiomeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "57e748d8-3f56-4d27-ae24-89462180f993",
+    "OreRules": [
+      {
+        "Probability": 1,
+        "Ore": {
+          "Material": "1c47a44c-3d96-49c7-911c-529ecda31ac7",
+          "MinSize": 10,
+          "MaxSize": 20,
+          "MinBiomeDepth": 0,
+          "MaxBiomeDepth": 1
+        }
+      }
+    ],
+    "ColorKey": 22,
+    "OresPerCubicKilometer": 2
+  }
+}

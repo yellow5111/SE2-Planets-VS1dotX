@@ -1,0 +1,21 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Components.PlanetEnvironmentDataDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "bd4e35ac-6bd0-40c9-890f-f2e71aed65be",
+    "SurfaceEnvironments": [
+      {
+        "Key": "2ebca57e-d78f-4a28-9e09-8079c1234b69",
+        "Value": "3f69111d-8d1a-4e2d-8da8-e8979db67b39"
+      },
+      {
+        "Key": "220c3b17-d241-49ec-8f29-dd55b5fc207a",
+        "Value": "4f8df5b0-a5b0-4bd9-8326-649be93a9173"
+      }
+    ],
+    "UndergroundEnvironments": []
+  }
+}

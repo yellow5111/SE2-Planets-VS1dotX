@@ -1,0 +1,14 @@
+{
+  "$Bundles": {
+    "Game2": "0.12.0.111",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "Game2:Keen.Game2.Client.Debugging.Screens.Voxels.PlanetInfoDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "dc281b7e-5f69-4335-beb3-6f650beb9116",
+    "Name": "Verdure",
+    "Preview": "ea21c45c-178d-4ac6-8445-7cad4c8faa63",
+    "Spawn": "e95e68e1-0ad2-4bc4-b48a-211ceaf8da21"
+  }
+}

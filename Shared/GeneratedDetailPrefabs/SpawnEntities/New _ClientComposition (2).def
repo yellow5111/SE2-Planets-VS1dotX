@@ -1,0 +1,47 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "c840dc1e-93d2-4202-9139-179191ea63ce",
+    "TagSlots": [
+      {
+        "$Key": "PlanetOreDepositComponent",
+        "$Value": "7dcf2c17-699c-4d62-adcc-ab8feed20d30"
+      },
+      {
+        "$Key": "HierarchyComponent",
+        "$Value": "855c4b39-e909-496c-a08c-0cbe43cd79da"
+      },
+      {
+        "$Key": "ChildTransformComponent",
+        "$Value": "72632f8f-33c5-4426-9856-4a6df215331d"
+      }
+    ],
+    "Components": [
+      {
+        "Key": "7dcf2c17-699c-4d62-adcc-ab8feed20d30",
+        "Value": {
+          "Definition": null,
+          "Type": "VRage:Keen.VRage.Voxels.Components.PlanetOreDepositComponent"
+        }
+      },
+      {
+        "Key": "855c4b39-e909-496c-a08c-0cbe43cd79da",
+        "Value": {
+          "Definition": null,
+          "Type": "VRage:Keen.VRage.Core.Game.Components.HierarchyComponent"
+        }
+      },
+      {
+        "Key": "72632f8f-33c5-4426-9856-4a6df215331d",
+        "Value": {
+          "Definition": null,
+          "Type": "VRage:Keen.VRage.Core.Game.Components.ChildTransformComponent"
+        }
+      }
+    ]
+  }
+}

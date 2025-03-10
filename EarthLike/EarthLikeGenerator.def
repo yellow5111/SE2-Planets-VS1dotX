@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetGeneratorDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "cea30991-6d6d-4dea-b828-1f505538f467",
+    "Name": "EarthLike",
+    "UpMap": "{G}9ccdb519-5dfd-451f-993f-c30e443e5c27",
+    "DownMap": "{G}70057d58-9e21-44fc-bca6-a9e31e8db578",
+    "LeftMap": "{G}03ac1c9b-91e5-45f5-be10-c854586d8422",
+    "RightMap": "{G}2a268ae0-ae0f-4d2f-8e91-465485b873a9",
+    "FrontMap": "{G}a080f33b-3e33-4ace-b6c9-72dcff17ea94",
+    "BackMap": "{G}ff7c9a3d-4a25-43b9-a4d6-fa70f2a63575",
+    "HillParams": {
+      "Min": -0.01,
+      "Max": 0.12
+    },
+    "DefaultMaterial": "d06e0a51-ec7b-40d1-a1a1-a730b115cbfe",
+    "Detail": null,
+    "DetailCubemap": "22ae874a-f601-4990-af20-987f57cf92a4"
+  }
+}

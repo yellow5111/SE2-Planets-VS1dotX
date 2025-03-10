@@ -1,0 +1,13 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetBiomeMapDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "5b13303f-cba4-47e1-bc3a-d8ccb9dcdcf2",
+    "BiomeMap": "f00aeb8e-4462-49c6-b087-0cf796d4fe33",
+    "MaterialMap": "533c275a-a756-46de-83e0-6bd856bb7c33",
+    "MinimumSurfaceLayerDepth": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetEnvironmentDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "0cde3cf6-43a7-45b5-b60a-8e948e08732e",
+    "TriggerBoxSize": 256,
+    "TriggerEnterMargin": 512,
+    "TriggerExitMargin": 512,
+    "ProceduralTriggerTagTypes": [
+      {
+        "Key": "b02da820-fc5c-4af3-b316-528df276c1e4",
+        "Value": "VRage:Keen.VRage.Physics.Havok.DynamicTag"
+      }
+    ]
+  }
+}

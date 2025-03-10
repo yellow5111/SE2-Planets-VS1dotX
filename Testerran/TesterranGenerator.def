@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetGeneratorDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "727043cf-f3c1-4a14-8ddb-ad9da8b72c57",
+    "Name": "Testerran",
+    "UpMap": "{G}9900bf7d-2143-4afa-85fd-a64799bb67e5",
+    "DownMap": "{G}9900bf7d-2143-4afa-85fd-a64799bb67e5",
+    "LeftMap": "{G}9900bf7d-2143-4afa-85fd-a64799bb67e5",
+    "RightMap": "{G}9900bf7d-2143-4afa-85fd-a64799bb67e5",
+    "FrontMap": "{G}9900bf7d-2143-4afa-85fd-a64799bb67e5",
+    "BackMap": "{G}9900bf7d-2143-4afa-85fd-a64799bb67e5",
+    "HillParams": {
+      "Min": -0.01,
+      "Max": 0.12
+    },
+    "DefaultMaterial": "d06e0a51-ec7b-40d1-a1a1-a730b115cbfe",
+    "Detail": null,
+    "DetailCubemap": "22ae874a-f601-4990-af20-987f57cf92a4"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetBiomeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "f4ce5c85-b546-42d1-8a0f-a37a1a3ab14d",
+    "OreRules": [
+      {
+        "Probability": 1,
+        "Ore": {
+          "Material": "1f5d7d9b-9fe5-4fbc-8b88-42794e005137",
+          "MinSize": 5,
+          "MaxSize": 10,
+          "MinBiomeDepth": 0,
+          "MaxBiomeDepth": 1
+        }
+      },
+      {
+        "Probability": 0.6,
+        "Ore": {
+          "Material": "35f1586f-1355-4f29-a7c5-b4ac9cd5c9b3",
+          "MinSize": 5,
+          "MaxSize": 10,
+          "MinBiomeDepth": 0,
+          "MaxBiomeDepth": 1
+        }
+      },
+      {
+        "Probability": 1,
+        "Ore": {
+          "Material": "30ca48a2-d182-4892-8629-60433c18883f",
+          "MinSize": 5,
+          "MaxSize": 10,
+          "MinBiomeDepth": 0,
+          "MaxBiomeDepth": 1
+        }
+      },
+      {
+        "Probability": 1,
+        "Ore": {
+          "Material": "794e02e1-b8db-49fe-b586-1d041ddc75ac",
+          "MinSize": 5,
+          "MaxSize": 10,
+          "MinBiomeDepth": 0,
+          "MaxBiomeDepth": 1
+        }
+      }
+    ],
+    "ColorKey": 43,
+    "OresPerCubicKilometer": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetEnvironmentItemDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "b4be5de8-c1c2-4a40-b3da-2d6960e19524",
+    "LodPrefabs": [
+      {
+        "Key": "dec6be21-72d1-4805-9e29-5f2b62d5484d",
+        "Value": {
+          "LodItemServer": "ae00badd-f1b2-49d7-82ef-5ac2f4b48a24",
+          "VariantPrefabs": null,
+          "MaxLod": 0
+        }
+      }
+    ],
+    "LodSpawnPruning": [],
+    "Density": {
+      "Unit": "SquareKilometer",
+      "ValuePerUnit": 0.7
+    },
+    "SlopePlacementRule": {
+      "Min": 35,
+      "Max": 80
+    },
+    "UsePreciseSlopeRange": true,
+    "PreciseSlopeHeightRange": {
+      "Min": 0,
+      "Max": 0.8
+    },
+    "HeightPlacementRule": {
+      "Min": 0,
+      "Max": 1
+    },
+    "RollThreshold": 90,
+    "ZOffsetRange": {
+      "Min": 0,
+      "Max": 0
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.Surface.TerrainTextureDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "bc79f288-71bc-49c9-9bec-81c3ff9a194a",
+    "HeightMap": "{G}a22227e1-318f-482b-a1eb-6e7e7a9ee6bc",
+    "MaterialMap": "{G}7bf1335b-950e-48f4-b30f-ec989964f66b"
+  }
+}

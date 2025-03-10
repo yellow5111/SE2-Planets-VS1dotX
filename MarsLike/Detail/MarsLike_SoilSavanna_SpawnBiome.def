@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.SurfaceBiomeEnvironmentDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "8476bc17-29f0-4bb8-8567-2e63fecd8057",
+    "SpawnBiome": "6c1da574-e875-4563-abb7-467404ef41f6",
+    "SpawnItems": [
+      {
+        "Key": "88e77e7e-ca96-477d-830a-e1097729d4d2",
+        "Value": "b69a7d74-b05a-4709-991d-f1f8d199aa8e"
+      }
+    ]
+  }
+}

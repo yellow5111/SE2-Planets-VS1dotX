@@ -1,0 +1,44 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.MaterialMapDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "5d93b7fc-1e7b-47b8-9454-5f4da461e1e2",
+    "Cubemap": {
+      "Right": "{G}d7b1d2c6-8d32-485b-9bf2-2e41385f6076",
+      "Left": "{G}a35b7b68-dc44-4250-8b43-97c9d2d25db6",
+      "Up": "{G}c7ad3ed1-e05e-4b6c-9a08-5cac5e44ed33",
+      "Down": "{G}5ca78b07-8185-4cd0-b0a0-fd88629c243f",
+      "Backward": "{G}fc08b6de-0900-4918-98e9-70b662d51692",
+      "Forward": "{G}4dd42eb4-66e1-4d00-90d8-3b90a6e6a121"
+    },
+    "MaterialBlending": {
+      "Texture": "{G}ba51ef4c-313d-485c-aa0e-3a3d2da18406",
+      "CellSize": 64
+    },
+    "MaterialMappings": [
+      {
+        "Key": "5d47e757-dd4e-452a-abde-a2a87d5b83c9",
+        "Value": "f26252ae-2d06-41c4-94ae-042595f01240"
+      },
+      {
+        "Key": "b2bf0d0f-4d7b-4202-8c97-71f1c396b171",
+        "Value": "d5b9dd29-de2a-4919-b3ec-a9f03d46bdc9"
+      },
+      {
+        "Key": "aae46f73-1f38-4455-9040-d25f854f22ef",
+        "Value": "00fc15f5-e7ed-466a-8769-0f5427d26755"
+      },
+      {
+        "Key": "0c4b3176-d139-4885-b19e-a0b45917a4df",
+        "Value": "487b828d-d5f1-4062-b56c-ab2899a33ab2"
+      },
+      {
+        "Key": "4a650f46-1fb5-4f46-b26a-30c5b45a1030",
+        "Value": "d0278362-ad3f-4b0b-a1fc-0135a9cf9c38"
+      }
+    ]
+  }
+}

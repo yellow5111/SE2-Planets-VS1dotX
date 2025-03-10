@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetGeneratorDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "564479bd-a276-4d90-abe4-01e480da828a",
+    "Name": "Verdure",
+    "UpMap": "{G}c0bf4bae-ef41-4640-8632-113187e52838",
+    "DownMap": "{G}e97e46da-2ffe-4cf9-889a-c4016be7ca15",
+    "LeftMap": "{G}7175c260-8c5f-49f2-88cc-2f45f0a13183",
+    "RightMap": "{G}22b72a28-1716-47c8-a60a-8574a1c7ed3d",
+    "FrontMap": "{G}7864d696-f9b7-4753-9181-e35e22f498a4",
+    "BackMap": "{G}ec6b1de6-0ab8-4a7c-916e-73ef30e9cd6b",
+    "HillParams": {
+      "Min": -0.01,
+      "Max": 0.12
+    },
+    "DefaultMaterial": "2be020a3-440f-48ed-a62b-05274d52bcf4",
+    "Detail": null,
+    "DetailCubemap": "27639d64-436b-407f-bcb4-88d653dfbeaf"
+  }
+}

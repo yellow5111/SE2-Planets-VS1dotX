@@ -1,0 +1,13 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetBiomeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "6396a1d8-90f5-40cd-a8d5-7a290a522495",
+    "OreRules": [],
+    "ColorKey": 59,
+    "OresPerCubicKilometer": 0
+  }
+}

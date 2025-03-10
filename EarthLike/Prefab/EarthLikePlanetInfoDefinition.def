@@ -1,0 +1,14 @@
+{
+  "$Bundles": {
+    "Game2": "0.12.0.111",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "Game2:Keen.Game2.Client.Debugging.Screens.Voxels.PlanetInfoDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "c8e468f6-d4e7-4132-b769-c21a14e936bf",
+    "Name": "EarthLike",
+    "Preview": "ea21c45c-178d-4ac6-8445-7cad4c8faa63",
+    "Spawn": "2669746a-a0d4-4aa2-9b55-913fd35d5390"
+  }
+}

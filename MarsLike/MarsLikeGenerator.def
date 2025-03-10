@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetGeneratorDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "cd6c0397-6d20-4361-831c-5b33ceb0bb01",
+    "Name": "Mars",
+    "UpMap": "{G}6b562b80-193c-42be-891e-98e85563d659",
+    "DownMap": "{G}85c03560-5ba4-4c6b-8b5e-09acc2d4f2eb",
+    "LeftMap": "{G}1f9494cc-1854-4ecd-b234-a4072fc1d99d",
+    "RightMap": "{G}70b3433f-908b-4972-8c7a-65b1bc9029d3",
+    "FrontMap": "{G}8369a073-5fe9-4721-a492-c67a93b5de3b",
+    "BackMap": "{G}3b2d78cb-0022-4b09-bb6d-b46ca93f750f",
+    "HillParams": {
+      "Min": -0.01,
+      "Max": 0.05
+    },
+    "DefaultMaterial": "ce2aef3a-ebdf-4682-86ee-d61e6c62fcc3",
+    "Detail": null,
+    "DetailCubemap": "16dfeab7-03db-4fbd-8f1d-7fce2d9f4701"
+  }
+}

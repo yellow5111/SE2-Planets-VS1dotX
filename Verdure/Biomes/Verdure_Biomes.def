@@ -1,0 +1,33 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.BiomeMapDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "9fbc0ea8-02d9-467e-b0b2-87e93a1eb41e",
+    "Cubemap": {
+      "Right": "{G}a49a85f9-5c68-4df6-9442-c8734ee48678",
+      "Left": "{G}818f96b6-87a5-4c56-8dea-31c4d71a885d",
+      "Up": "{G}7742aa79-3aac-4aac-844f-0ca5302d52fa",
+      "Down": "{G}1ce225c5-f18f-44c0-8568-7471c87fd430",
+      "Backward": "{G}4308ff4c-5fad-4dec-aee9-a66c91586f18",
+      "Forward": "{G}bb0decd3-905b-4d5b-97b1-e2791e634f75"
+    },
+    "SurfaceBiomes": [
+      {
+        "Key": "1b8f112b-991b-4a3c-83c7-0e99c552cd05",
+        "Value": "52afeea5-89b2-4cfc-9e85-b15e55c6cb50"
+      },
+      {
+        "Key": "a48728f6-8104-4a9a-963f-d20dcc96e8eb",
+        "Value": "8f8742e6-d925-486d-bb18-0d50485d4345"
+      }
+    ],
+    "UndergroundBiomes": [
+      "9abecf28-8447-4285-a3d6-fe1e07082c10",
+      "638b8ccb-6b04-4297-a12e-9d1295fc6d89",
+      "3372aca2-2eb6-4f79-acac-f1f72ea288ad"
+    ]
+  }
+}

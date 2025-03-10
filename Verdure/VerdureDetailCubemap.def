@@ -1,0 +1,48 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.Surface.TerrainDetailCubemapDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "27639d64-436b-407f-bcb4-88d653dfbeaf",
+    "Patterns": {
+      "30": "9085f1a1-a6a6-4728-aa7e-497d72ad9d84",
+      "71": "f5d1b256-2639-40b0-a827-2ed8681e8dfb",
+      "70": "1c2fbfcb-31a8-4829-85d5-6d3ca0f61bf5",
+      "39": "90fa880c-3bc2-48a1-b6b0-6118df23e641",
+      "4": "8ea7d8b9-dc0f-4d1d-b91a-b1953c1ae939",
+      "1": "4777c598-9438-4897-8a22-ef9e2f027176",
+      "40": "b7f56485-d44c-4117-b732-b73b0549e475",
+      "55": "8a9772ec-a637-4b85-946f-b805963d0621",
+      "41": "95c39db9-5cf8-496b-ad02-c5648812f193",
+      "57": "c2f303b3-c2f7-45ca-8fa1-3c808bf33d5f",
+      "60": "1a37d990-b6c3-45ff-8d2c-86ad1731df73",
+      "32": "c8e62a05-4f51-4df9-ad07-a850048a4f5a",
+      "11": "eaacd46c-9adc-44d9-b13c-28426c1cc8f3",
+      "10": "04f064e3-d85e-4659-8634-70a8e570de6e",
+      "82": "4ccc797e-9ded-4753-95d7-0182b8ac026a",
+      "83": "fa4fceca-3bbd-4022-b320-0c6889a25223",
+      "81": "cd5a4a0b-f08f-4b13-b5cf-fefce76aea2d",
+      "31": "6bfad0ae-a51c-4e27-ab7b-05bd8cd0bb7e",
+      "59": "794fa18c-57d8-4a2c-a7b4-ff2ed03c85d7",
+      "58": "1ebac2a8-90bb-4119-9382-48c29ba6b41e",
+      "63": "46aa2be3-abd9-4849-a34b-771e5d8bccb8",
+      "3": "1f06d053-424a-4e45-abf5-d388d9f4f4c0",
+      "56": "c706ef3e-8d8c-4687-8c00-cf5b01a562e3",
+      "61": "1398dca1-c6d9-496f-bd4c-a2782007cbf5"
+    },
+    "LookupCubemap": {
+      "Right": "{G}fef8777a-aa63-44d3-97c5-891d7db17d8d",
+      "Left": "{G}7063e9e3-fae5-4c39-ad1f-415b21c047e9",
+      "Up": "{G}0961969b-ed75-42be-9a22-c77071d47c53",
+      "Down": "{G}ee82ba06-c240-4e79-a804-1657e51c17ee",
+      "Backward": "{G}cc23efc5-f310-4a56-9fa2-c067e156dd9d",
+      "Forward": "{G}6384222b-498d-4be5-97a3-e4bb3b239045"
+    },
+    "TargetPlanetRadius": 60000,
+    "DecayFactor": 0,
+    "MaterialBlendingThreshold": 1,
+    "BlendingCoverageMap": "4faac13d-2621-48ff-9440-8de67824d248"
+  }
+}

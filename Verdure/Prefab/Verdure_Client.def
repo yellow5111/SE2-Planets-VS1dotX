@@ -1,0 +1,67 @@
+{
+  "$Bundles": {
+    "Game2": "0.12.0.111",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Core.Game.Definitions.PrefabDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "62884b6f-837e-4242-a7d3-89d4662f0871",
+    "_entity": {
+      "Definition": "fd75961b-33d1-47bd-af3e-7ea01308610f",
+      "ObjectBuilders": {
+        "$DeltaEncoded": true,
+        "Keys": [
+          "1f8ade02-1893-4b14-b22b-5de6ce5c8c8a",
+          "f2ec6a2f-a6a0-49a4-b9ea-051d836059c7",
+          "edb2e927-71fa-4591-bfa7-478858d6aace",
+          "64a688f4-17d2-418a-8cc8-8375041dc9c6",
+          "634e0baf-fbe5-4949-a7ae-bef278166b9c",
+          "1a202ff1-154e-4590-87e5-b35bd7cbec9f",
+          "cc842ea6-d41e-472e-83c8-8642dac5e8f7",
+          "1f4d3f0c-983e-45d0-b5eb-0131d95bfa63",
+          "8a9bf1eb-ba5d-4860-bbeb-d337690f4c3f",
+          "8302e662-5662-43ef-81df-8dcf7eb29769",
+          "76f5d041-6415-4352-aa24-28151b56c794",
+          "5cbb4e41-e2bc-4dcc-8d4b-fd3312f4babf",
+          "42022abf-2232-4769-b070-8aa24d608cd5",
+          "39d08d34-ee98-464c-9d1b-64cb6de5c881",
+          "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8",
+          "07281742-d280-4f65-adbf-86c713c4ab4b",
+          "832efb8e-8fa6-464d-b495-8220c3b14eaa",
+          "f6ec6c38-3dfc-4e21-8cab-c4e70b627c02",
+          "e699e44f-7a19-495d-9e74-19cf735e42e8"
+        ],
+        "Changed": [
+          {
+            "Kind": "Update",
+            "Index": 7,
+            "Value": {
+              "$Type": "Game2:Keen.Game2.Simulation.GameSystems.RangedAffectGenerators.Gravity.GravityGeneratorObjectBuilder",
+              "AffectDistance": 1.5,
+              "GravitationalAcceleration": 9.85
+            }
+          },
+          {
+            "Kind": "Update",
+            "Index": 16,
+            "Value": {
+              "$Type": "Game2:Keen.Game2.Simulation.GameSystems.RangedAffectGenerators.Atmosphere.AtmosphereGeneratorObjectBuilder",
+              "AffectDistance": 1.15,
+              "ConstantAffectDistance": 1
+            }
+          },
+          {
+            "Kind": "Insert",
+            "Index": 18,
+            "Value": {
+              "$Type": "VRage:Keen.VRage.Water.Components.ProceduralWaterComponentObjectBuilder",
+              "BiomeToWaterHeight": null
+            }
+          }
+        ],
+        "Removed": []
+      }
+    }
+  }
+}

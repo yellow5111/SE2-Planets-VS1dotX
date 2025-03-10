@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Components.VoxelOctreeComponentDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "b9054b1e-b53e-4a4f-b3be-c286d29edcfe",
+    "VoxelMapFile": "{G}ddb9cbcd-a84f-4a98-9be0-facf4e63e7d6",
+    "Material": "d06e0a51-ec7b-40d1-a1a1-a730b115cbfe",
+    "ShapeCenter": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    }
+  }
+}

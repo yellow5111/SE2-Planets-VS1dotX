@@ -1,0 +1,122 @@
+{
+  "$Bundles": {
+    "Game2": "0.12.0.111",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "e5d5e190-0aa4-4bfa-a18d-6985cce32b20",
+    "TagSlots": {
+      "$DeltaEncoded": true,
+      "RemovedKeys": [],
+      "ModifiedKeys": [
+        {
+          "$Key": "ProceduralWaterComponent",
+          "$Value": "e699e44f-7a19-495d-9e74-19cf735e42e8"
+        },
+        {
+          "$Key": "AtmosphereGeneratorComponent",
+          "$Value": "832efb8e-8fa6-464d-b495-8220c3b14eaa"
+        },
+        {
+          "$Key": "EnvironmentServer",
+          "$Value": "fadae4bc-5ac7-4010-8993-49222ed4b13d"
+        },
+        {
+          "$Key": "WaterBlobComponent",
+          "$Value": "8ad76135-f39d-42d3-a883-4af471afcbb0"
+        },
+        {
+          "$Key": "PhysicsColliderProvider",
+          "$Value": "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8"
+        },
+        {
+          "$Key": "VoxelPlanetPhysicsComponent",
+          "$Value": "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8"
+        },
+        {
+          "$Key": "PhysicsMotionProvider",
+          "$Value": "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8"
+        }
+      ]
+    },
+    "Components": {
+      "$DeltaEncoded": true,
+      "Keys": [
+        "1f8ade02-1893-4b14-b22b-5de6ce5c8c8a",
+        "edb2e927-71fa-4591-bfa7-478858d6aace",
+        "64a688f4-17d2-418a-8cc8-8375041dc9c6",
+        "1a202ff1-154e-4590-87e5-b35bd7cbec9f",
+        "1f4d3f0c-983e-45d0-b5eb-0131d95bfa63",
+        "8a9bf1eb-ba5d-4860-bbeb-d337690f4c3f",
+        "8302e662-5662-43ef-81df-8dcf7eb29769",
+        "5cbb4e41-e2bc-4dcc-8d4b-fd3312f4babf",
+        "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8",
+        "5b73ec84-84f0-42a4-b2f8-cb967ce2f53d",
+        "64a20d86-3e36-4153-8af4-89e059e9e5d3",
+        "fadae4bc-5ac7-4010-8993-49222ed4b13d",
+        "e699e44f-7a19-495d-9e74-19cf735e42e8",
+        "832efb8e-8fa6-464d-b495-8220c3b14eaa",
+        "8ad76135-f39d-42d3-a883-4af471afcbb0"
+      ],
+      "Changed": [
+        {
+          "Kind": "Update",
+          "Index": 1,
+          "Value": {
+            "Definition": "564479bd-a276-4d90-abe4-01e480da828a"
+          }
+        },
+        {
+          "Kind": "Update",
+          "Index": 3,
+          "Value": {
+            "Definition": "daa76de5-ae23-4b81-9246-c9881792d74e"
+          }
+        },
+        {
+          "Kind": "Update",
+          "Index": 6,
+          "Value": {
+            "Definition": "02de8548-60fa-4520-a0cf-2610f7eb424c"
+          }
+        },
+        {
+          "Kind": "Update",
+          "Index": 11,
+          "Value": {
+            "Definition": "0cde3cf6-43a7-45b5-b60a-8e948e08732e"
+          }
+        },
+        {
+          "Kind": "Insert",
+          "Index": 12,
+          "Value": {
+            "Definition": null,
+            "Type": "VRage:Keen.VRage.Water.Components.ProceduralWaterComponent"
+          }
+        },
+        {
+          "Kind": "Insert",
+          "Index": 13,
+          "Value": {
+            "Definition": "1aa2a8aa-3f70-4ed3-916f-edc5a213ff5d",
+            "Type": "Game2:Keen.Game2.Simulation.GameSystems.RangedAffectGenerators.Atmosphere.AtmosphereGeneratorComponent"
+          }
+        },
+        {
+          "Kind": "Insert",
+          "Index": 14,
+          "Value": {
+            "Definition": "003a97eb-6f5f-4879-b194-7aa2896f5219",
+            "Type": "VRage:Keen.VRage.Water.Components.WaterBlobComponent"
+          }
+        }
+      ],
+      "Removed": [
+        "832efb8e-8fa6-464d-b495-8220c3b14eaa"
+      ]
+    }
+  }
+}

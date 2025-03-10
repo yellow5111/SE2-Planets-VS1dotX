@@ -1,0 +1,32 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.Surface.TerrainDetailCubemapDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "127a1856-aa54-45c1-ac1d-69e4482d4a6f",
+    "Patterns": {
+      "43": "4db7748d-ffe5-43f4-8d08-2233e798ec3f",
+      "57": "b7eae3a3-9f42-421f-ad4a-3c1157e8ebc2",
+      "55": "0f3ad511-cbb7-476f-92f4-ec478850556d",
+      "58": "8e638ad4-8046-4f48-bc8d-f3bb53436615",
+      "56": "8a161916-da7f-4d34-9ff6-92468659b09f",
+      "59": "7f88bd62-8314-40f1-9741-a2912af79f00",
+      "61": "9a962d7a-6e5b-4ce6-8b7d-7fdeafaed9f5",
+      "22": "c3bf9a1a-76a3-4e3a-af45-42d79b36f834"
+    },
+    "LookupCubemap": {
+      "Right": "{G}1f5f063b-4911-432a-a424-271b847b66fb",
+      "Left": "{G}f324ee5a-5a55-48bd-b687-b5fd8fa1a500",
+      "Up": "{G}65540bd5-bf55-48a9-9bd3-4b12ee2b1a37",
+      "Down": "{G}d6fb1ecb-ba34-4f99-b1bc-660c03f4694a",
+      "Backward": "{G}b6ef2fcd-7e14-4dbf-8e8c-843757d89818",
+      "Forward": "{G}8d7ea9d1-e969-47a1-9b14-80451c3fdab2"
+    },
+    "TargetPlanetRadius": 60000,
+    "DecayFactor": 0,
+    "MaterialBlendingThreshold": 0,
+    "BlendingCoverageMap": null
+  }
+}

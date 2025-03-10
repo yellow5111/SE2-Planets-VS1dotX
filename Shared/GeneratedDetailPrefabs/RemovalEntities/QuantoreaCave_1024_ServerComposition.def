@@ -1,0 +1,47 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "27ecba1d-23aa-458a-a3a5-6dd7aae7c6e7",
+    "TagSlots": {
+      "$DeltaEncoded": true,
+      "RemovedKeys": [],
+      "ModifiedKeys": [
+        {
+          "$Key": "MassFillWaterComponent",
+          "$Value": "e7589ac9-b91a-4937-be46-144df92668e3"
+        }
+      ]
+    },
+    "Components": {
+      "$DeltaEncoded": true,
+      "Keys": [
+        "eb2a8e79-b052-4732-9229-f4d7d0fcd162",
+        "366401d5-96b3-46c2-bfb1-78f0811eaada",
+        "d8abc9f5-a11c-47c6-8960-428ecd92d1a7",
+        "e7589ac9-b91a-4937-be46-144df92668e3"
+      ],
+      "Changed": [
+        {
+          "Kind": "Update",
+          "Index": 0,
+          "Value": {
+            "Definition": "9597bc80-1645-449c-b2a4-770eca2a9c6e"
+          }
+        },
+        {
+          "Kind": "Insert",
+          "Index": 3,
+          "Value": {
+            "Definition": null,
+            "Type": "VRage:Keen.VRage.Water.Components.MassFillWaterComponent"
+          }
+        }
+      ],
+      "Removed": []
+    }
+  }
+}

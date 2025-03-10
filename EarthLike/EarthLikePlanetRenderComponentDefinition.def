@@ -1,0 +1,13 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Client.Components.VoxelPlanetRenderComponentDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "7b640a45-ba38-4476-b38d-927e53ec73bc",
+    "ClipmapSettings": "e54bacbf-7671-4d39-931c-cd2f0e506a37",
+    "LodTransitionDuration": 5000000,
+    "PlanetOverlay": "662323b5-4a79-436b-a704-de5125d14cf8"
+  }
+}

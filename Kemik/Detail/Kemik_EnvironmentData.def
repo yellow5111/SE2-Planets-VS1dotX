@@ -1,0 +1,45 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Components.PlanetEnvironmentDataDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "492b8f1a-8e34-4b87-a141-ade3fd444801",
+    "SurfaceEnvironments": {
+      "$DeltaEncoded": true,
+      "Keys": [
+        "108b25da-ae73-40f8-bf3f-fb5815457869",
+        "38708f83-540d-4647-8a45-82e64621c47f",
+        "24798a85-91b0-4134-a0cb-110e85a8715a",
+        "ad8b5e39-2990-4be1-a7ef-5a028d7cbc3c"
+      ],
+      "Changed": [
+        {
+          "Kind": "Insert",
+          "Index": 0,
+          "Value": "3f934920-848e-4f53-97f4-a2336f57df43"
+        },
+        {
+          "Kind": "Insert",
+          "Index": 1,
+          "Value": "866bc14e-48b1-4815-9184-7a64201c9f67"
+        },
+        {
+          "Kind": "Insert",
+          "Index": 2,
+          "Value": "39abf091-3b80-4e0c-8a5f-84cd15d4c19a"
+        },
+        {
+          "Kind": "Insert",
+          "Index": 3,
+          "Value": "b692e189-3fb0-4914-a4de-a9328a845344"
+        }
+      ],
+      "Removed": [
+        "2ebca57e-d78f-4a28-9e09-8079c1234b69",
+        "220c3b17-d241-49ec-8f29-dd55b5fc207a"
+      ]
+    }
+  }
+}

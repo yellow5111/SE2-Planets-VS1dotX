@@ -1,0 +1,77 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "c99db081-3fd1-492f-a302-efaca833b1f6",
+    "TagSlots": {
+      "$DeltaEncoded": true,
+      "RemovedKeys": [],
+      "ModifiedKeys": [
+        {
+          "$Key": "PhysicsColliderProvider",
+          "$Value": "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8"
+        },
+        {
+          "$Key": "VoxelPlanetPhysicsComponent",
+          "$Value": "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8"
+        },
+        {
+          "$Key": "PhysicsMotionProvider",
+          "$Value": "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8"
+        }
+      ]
+    },
+    "Components": {
+      "$DeltaEncoded": true,
+      "Keys": [
+        "1f8ade02-1893-4b14-b22b-5de6ce5c8c8a",
+        "edb2e927-71fa-4591-bfa7-478858d6aace",
+        "64a688f4-17d2-418a-8cc8-8375041dc9c6",
+        "1a202ff1-154e-4590-87e5-b35bd7cbec9f",
+        "1f4d3f0c-983e-45d0-b5eb-0131d95bfa63",
+        "8a9bf1eb-ba5d-4860-bbeb-d337690f4c3f",
+        "8302e662-5662-43ef-81df-8dcf7eb29769",
+        "5cbb4e41-e2bc-4dcc-8d4b-fd3312f4babf",
+        "b8d1bc2c-3410-470f-bf41-a1ce78dbbed8",
+        "5b73ec84-84f0-42a4-b2f8-cb967ce2f53d",
+        "64a20d86-3e36-4153-8af4-89e059e9e5d3",
+        "fadae4bc-5ac7-4010-8993-49222ed4b13d",
+        "832efb8e-8fa6-464d-b495-8220c3b14eaa"
+      ],
+      "Changed": [
+        {
+          "Kind": "Update",
+          "Index": 1,
+          "Value": {
+            "Definition": "0263c5a8-2451-47df-887d-dbbf97c7decb"
+          }
+        },
+        {
+          "Kind": "Update",
+          "Index": 3,
+          "Value": {
+            "Definition": "e6a2c24e-81b2-445c-9739-70356ad0e779"
+          }
+        },
+        {
+          "Kind": "Update",
+          "Index": 6,
+          "Value": {
+            "Definition": "a2ab1042-5a37-4072-8bf9-e0066c5d8f77"
+          }
+        },
+        {
+          "Kind": "Update",
+          "Index": 11,
+          "Value": {
+            "Definition": "5fa44746-be44-4bdb-9131-4c6453b06f47"
+          }
+        }
+      ],
+      "Removed": []
+    }
+  }
+}

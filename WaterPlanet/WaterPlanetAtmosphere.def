@@ -1,0 +1,58 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Render.Data.AtmosphereDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "b5dfdb12-7115-40ef-8380-9fc5a81a03e0",
+    "AtmosphereBoundingHeight": 0.35,
+    "BetaRayleighScatteringColor": {
+      "X": 0.07227186,
+      "Y": 0.29613832,
+      "Z": 0.65837485,
+      "W": 1
+    },
+    "BetaRayleighScatteringIntensity": 10,
+    "RayleighTint": {
+      "X": 0.07227186,
+      "Y": 0.29613832,
+      "Z": 0.65837485,
+      "W": 1
+    },
+    "HeightScaleRayleigh": 0.03,
+    "BetaMieScatteringColor": {
+      "X": 0.14702728,
+      "Y": 0.30946895,
+      "Z": 0.6514057,
+      "W": 1
+    },
+    "BetaMieScatteringIntensity": 5,
+    "HeightScaleMie": 0.008,
+    "MieG": 0.85,
+    "NightFogColor": {
+      "X": 0.36130688,
+      "Y": 0.701102,
+      "Z": 0.9911022,
+      "W": 1
+    },
+    "NightFogIntensity": 0.1,
+    "HeightScaleNightFog": 0.1,
+    "SunlightPlanetScale": 5,
+    "AtmosphereShrinkFactorMin": 1,
+    "AtmosphereShrinkFactorMax": 7,
+    "Intensity": 3,
+    "FogIntensitySurface": 0.55,
+    "FogIntensitySpace": 0.3,
+    "DesaturationFactor": 0,
+    "DirectLightScatterMult": 1,
+    "SunDiscScatterMult": 0.5,
+    "SurfaceTransitionRadiusMin": 0,
+    "SurfaceTransitionRadiusMax": 0.5,
+    "AmbientIntensity": 0.05,
+    "AmbientTintFactor": 0,
+    "AmbientDiffuseFactor": 0.5,
+    "UndergroundFalloffRadius": 0.003,
+    "SunsetMultiplier": 3
+  }
+}

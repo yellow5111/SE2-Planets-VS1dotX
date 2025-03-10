@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Storage.Planet.PlanetGeneratorDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "0263c5a8-2451-47df-887d-dbbf97c7decb",
+    "Name": "Water Planet",
+    "UpMap": "{G}b2c64e8a-99f3-45f2-b2bb-7c3080480be1",
+    "DownMap": "{G}24e05010-acaa-4f3b-8c5d-d0e35bda6196",
+    "LeftMap": "{G}3350f74b-a715-47c6-b557-3b8a1aa3b34b",
+    "RightMap": "{G}6370bccb-0870-44e9-8d89-258825952ecb",
+    "FrontMap": "{G}abce87a4-d48d-4017-ab29-8e35c98c8c34",
+    "BackMap": "{G}6d8713e3-9565-4f98-b582-32c020a2955e",
+    "HillParams": {
+      "Min": -0.01,
+      "Max": 0.05
+    },
+    "DefaultMaterial": "3b5b63f4-c71f-45d1-8399-ceb360104ba1",
+    "Detail": null,
+    "DetailCubemap": "9b476399-4f27-4d33-95c9-1f049010488c"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Multiplayer.Data.PrefabBindingDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "e27ed8f3-d231-4bda-8991-c3ba041c2a9b",
+    "ServerComposite": "3b779a7d-b488-4c1c-a324-f6b72aedf7a7",
+    "ClientPrefab": "9e056774-a1e3-4966-9ca9-7e9a4e31a69b"
+  }
+}

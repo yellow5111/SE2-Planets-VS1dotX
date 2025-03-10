@@ -1,0 +1,23 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Voxels.Client.Definitions.PlanetEnvironmentClientDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "12056350-79a0-4228-ae99-d109a07ffffc",
+    "TriggerBoxSize": 2048,
+    "TriggerEnterMargin": 2048,
+    "TriggerExitMargin": 4096,
+    "ProceduralTriggerTagTypes": [
+      {
+        "Key": "cd50a7c8-fd3b-4692-82a0-9c6485126ae3",
+        "Value": "VRage:Keen.VRage.Core.Game.GameSystems.GamePruning.ClientTriggerTag"
+      },
+      {
+        "Key": "fa092d49-1600-4fa1-983d-37dc31836b63",
+        "Value": "VRage:Keen.VRage.Physics.Havok.DynamicTag"
+      }
+    ]
+  }
+}

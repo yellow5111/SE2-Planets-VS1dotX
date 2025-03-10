@@ -1,0 +1,13 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "VRage:Keen.VRage.Core.Game.Definitions.PrefabDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "22935691-abb2-4b3a-bc2c-3669a1caa511",
+    "_entity": {
+      "Definition": "858ab1a5-f560-4a1d-8d09-030f508f109d"
+    }
+  }
+}

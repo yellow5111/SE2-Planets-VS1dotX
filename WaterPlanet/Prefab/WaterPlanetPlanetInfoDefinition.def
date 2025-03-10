@@ -1,0 +1,14 @@
+{
+  "$Bundles": {
+    "Game2": "0.12.0.111",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "0.12.0.111"
+  },
+  "$Type": "Game2:Keen.Game2.Client.Debugging.Screens.Voxels.PlanetInfoDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "4d11617a-920a-48ba-97be-11bbf1a8261f",
+    "Name": "WaterPlanet",
+    "Preview": "ea21c45c-178d-4ac6-8445-7cad4c8faa63",
+    "Spawn": "d4a4a173-c26c-4e44-86fb-7d2b5901d185"
+  }
+}
